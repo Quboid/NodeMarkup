@@ -498,15 +498,48 @@ Con Alt premuto, per creare un riempimento</value>
   <data name="FillerStyle_SolidShort" xml:space="preserve">
     <value>C</value>
   </data>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <data name="Mod_WhatsNewMessage1_2_1" xml:space="preserve">
+    <value>- Risolto il problema con i tasti Alt, Ctrl e Shift su mac OS and Linux.
+- Aggiunti gli stili linea di stop "Doppia continua" e "Doppia tratteggiata".
+- Aggiunte le localizzazioni di Italiano e Portoghese.</value>
+  </data>
+  <data name="Mod_WhatsNewMessage1_1" xml:space="preserve">
+    <value>- Il messaggio "Novità - What's New" verrà visualizzato una volta dopo un aggiornamento e può essere disabilitato nel menu Opzioni.
+- Aggiunte le seguenti traduzioni: ceco, olandese, francese, tedesco, giapponese, polacco, russo e spagnolo (si prega di contattare l'autore della mod per aiutare con la traduzione nella propria lingua).
+- Ora è possibile trascinare i punti finali da uno dall'altro tenendo premuto Ctrl.
+- Backup: nel menu Opzioni è ora possibile eseguire il backup dei dati di marcatura su una mappa scaricando su un file e quindi importandolo. Ciò è necessario se servisse disabilitare la mod, effettuare un nuovo salvataggio senza la mod e quindi ripristinare tutti i contrassegni.
+- Ora verrà visualizzato un avviso popup quando si eliminano elementi. Questo vale per linee, regole e modelli. Questo può essere disabilitato nelle opzioni.
+- Aggiunta nuova scorciatoia per l'aggiunta di una nuova regola - Maiusc + Ctrl + A (rimappabile).
+- Impostazione rapida della regola: dopo aver aggiunto una nuova regola, l'interfaccia per la selezione dei punti iniziale e finale ora si apre automaticamente. Non è più necessario fare clic sulle aree "Da" e "A". Questo può essere disabilitato nelle opzioni.
+- Risolto il problema con le linee che sembravano essere spezzate o divise - si verificava solo nelle transizioni autostradali e stradali.
+- Le linee non verranno più visualizzate quando sono mostrate le informazioni della visualizzazione delle sovrapposizioni.
+- La scorciatoia di attivazione ora si attiverà quando si apre un altro strumento mentre lo strumento di marcatura è già aperto.</value>
+  </data>
+  <data name="Mod_WhatsNewVersion" xml:space="preserve">
+    <value>Versione {0}</value>
+  </data>
+  <data name="Settings_Notifications" xml:space="preserve">
+    <value>Notifiche</value>
+  </data>
+  <data name="Settings_ShowOnlyMajor" xml:space="preserve">
+    <value>Notifica solo gli update maggiore</value>
+  </data>
+  <data name="Settings_AddNewFiller" xml:space="preserve">
+    <value>Aggiungi un nuovo riempimento</value>
+  </data>
+  <data name="Mod_WhatsNewMessageBeta" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="LineStyle_StopDouble" xml:space="preserve">
+    <value>Doppia linea di stop</value>
+  </data>
+  <data name="LineStyle_StopDoubleDashed" xml:space="preserve">
+    <value>Doppia linea di stop tratteggiata</value>
+  </data>
+  <data name="LineStyle_StopDoubleShort" xml:space="preserve">
+    <value>DLS</value>
+  </data>
+  <data name="LineStyle_StopDoubleDashedShort" xml:space="preserve">
+    <value>DLST</value>
+  </data>
 </root>
