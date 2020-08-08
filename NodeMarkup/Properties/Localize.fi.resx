@@ -228,7 +228,9 @@ Tätä toimintoa ei voi kumota</value>
   <data name="Mod_DescriptionBeta" xml:space="preserve">
     <value>Tämä on BETA-versio. Virheitä voi esiintyä, eikä vakautta ole taattu!</value>
   </data>
-  
+  <data name="Panel_Caption" xml:space="preserve">
+    <value>Muokkaa risteyksen #{0} merkintöjä</value>
+  </data>
   <data name="PointEditor_ItemDescription" xml:space="preserve">
     <value>piste</value>
   </data>
@@ -343,7 +345,9 @@ Tätä toimintoa ei voi kumota</value>
   <data name="Template_NewTemplate" xml:space="preserve">
     <value>Uusi malline</value>
   </data>
-  
+  <data name="Tool_ClearMarkingsCaption" xml:space="preserve">
+    <value>Poista risteyksen merkinnät</value>
+  </data>
   <data name="Tool_ClearMarkingsMessage" xml:space="preserve">
     <value>Haluatko varmasti poistaa kaikki risteyksen #{0} tiemerkinnät?
 Tätä toimintoa ei voi kumota</value>
@@ -360,7 +364,9 @@ Tätä toimintoa ei voi kumota</value>
     <value>Risteys #{0}
 Napauta muokataksesi merkintöjä</value>
   </data>
-  
+  <data name="Tool_InfoNode" xml:space="preserve">
+    <value>Valitse risteys muokataksesi merkintöjä</value>
+  </data>
   <data name="Tool_InfoSelectEndPoint" xml:space="preserve">
     <value>Valitse päätepiste
 +Shift - Sulku-
@@ -372,7 +378,9 @@ Napauta muokataksesi merkintöjä</value>
 +Shift muokataksesi pistettä
 Pidä Alt-näppäintä pohjassa luodaksesi sulkualueen</value>
   </data>
-  
+  <data name="Mod_WhatsNewCaption" xml:space="preserve">
+    <value>Uutta versiossa {0}</value>
+  </data>
   <data name="Settings_ShowWhatsNew" xml:space="preserve">
     <value>Näytä, mikä on uutta</value>
   </data>
