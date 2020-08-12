@@ -395,7 +395,7 @@ Pidä Alt-näppäintä pohjassa luodaksesi sulkualueen</value>
     <value>SK</value>
   </data>
   <data name="LineEditor_Invert" xml:space="preserve">
-    <value>Käänteinen</value>
+    <value>Käännä</value>
   </data>
   <data name="LineEditor_Width" xml:space="preserve">
     <value>Leveys</value>
